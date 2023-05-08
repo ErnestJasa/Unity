@@ -1,0 +1,81 @@
+.AppToolbar
+{
+    background-color: #1c1c1c;
+}
+ 
+.AppCommandLeft
+{
+    background-color: #0e3159;
+}
+ 
+.AppCommandMid
+{
+    background-color: #0e3159;
+}
+ 
+.AppCommandRight
+{
+    background-color: #0e3159;
+}
+ 
+.AppToolbarButtonLeft
+{
+    background-color: #0e3159;
+}
+ 
+.AppToolbarButtonRight
+{
+    background-color: #0e3159;
+}
+ 
+.DropDown
+{
+    background-color: #0e3159;
+}
+ 
+ 
+.dockHeader
+{
+    background-color: #1c1c1c;
+}
+ 
+.dockarea
+{
+    background-color: #1c1c1c;
+}
+ 
+.PaneOptions
+{
+    background-color: #1c1c1c;
+}
+ 
+.TabWindowBackground
+{
+    background-color: #1c1c1c;
+}
+ 
+.Toolbar
+{
+    background-color: #0e3159;
+}
+ 
+.SceneTopBarBg
+{
+    background-color: #1c1c1c;
+}
+ 
+.ScrollViewAlt
+{
+    background-color: #1c1c1c;
+}
+ 
+ 
+.SceneTopBarBg
+{
+    background-color: #0e3159;
+}
+ 
+.FoldoutHeader
+{
+    background-color: #1c1c1c;
+}
